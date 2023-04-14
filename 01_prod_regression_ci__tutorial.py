@@ -21,7 +21,6 @@ from sklearn import metrics
 
 # In[60]:
 
-
 # lire le fichier de données
 #utiliser le param index_col: Column to use as the row labels of the DataFrame
 df = pd.read_csv('Advertising.csv', 
