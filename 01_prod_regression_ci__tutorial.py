@@ -12,7 +12,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn import LinearRegression
+from sklearn.linear_model import LinearRegression
 from sklearn import model_selection
 from sklearn import metrics
  
