@@ -8,7 +8,7 @@
 
 # In[59]:
 
-pip install sklearn
+pip install scikit-learn
 # modules nécessaires pour le notebook
 import pandas as pd
 import matplotlib.pyplot as plt
