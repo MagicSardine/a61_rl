@@ -22,4 +22,4 @@ jobs:
           git config --global user.name "toto"
           git add report.md metrics.txt
           git commit -m "pousser vers github repository"
-          git push origin HEAD:MagicSardine-patch-1
+          git push origin HEAD:master
